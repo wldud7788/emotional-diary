@@ -40,7 +40,6 @@ const Editor = ({ onSubmit, initData }) => {
   };
 
   const onClickSubmitButton = () => {
-    console.log("인풋", input);
     onSubmit(input);
   };
   return (
