@@ -1,0 +1,13 @@
+{
+  "routes": [
+    { "src": "/new", "dest": "/" },
+    { "src": "/diary/:id", "dest": "/" },
+    { "src": "/edit/:id", "dest": "/" },
+    { "src": "/", "dest": "/" }
+  ],
+  "rewrites": [
+    { "source": "/new", "destination": "/" },
+    { "source": "/diary/:id", "destination": "/" },
+    { "source": "/edit/:id", "destination": "/" }
+  ]
+}
