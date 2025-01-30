@@ -1,7 +1,7 @@
 ### 감정일기 
 작업 날짜: 2025.01.15 ~ 2025.01.18 <br>
 벨로그 : [벨로그 링크](https://velog.io/@rooftop7788/%EA%B0%9C%EC%9D%B8%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B82-Emotional-Diary)  <br>
-배포링크: https://pokemon-indol-three.vercel.app/  <br>
+배포: [배포링크](https://emotional-diary-tau.vercel.app/) <br>
 
 ### [DiaryContext.jsx]
 - ContextAPI
